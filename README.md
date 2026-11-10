@@ -229,14 +229,21 @@ for i in Personal:
  
  
  
- 
+ ```
 
 Output: 
  
  
- <img width="932" height="448" alt="image" src="https://github.com/user-attachments/assets/851491fc-9478-4ef2-b7a2-e7c03d6fc3a0" />
+<img width="542" height="748" alt="image" src="https://github.com/user-attachments/assets/3724b459-19b5-4c89-9b75-54ea2f020e36" />
+<img width="720" height="736" alt="image" src="https://github.com/user-attachments/assets/a9e2db3e-4f50-4958-baa0-3f7654f956ad" />
+<img width="771" height="603" alt="image" src="https://github.com/user-attachments/assets/b4fc0673-2d87-4e27-b14d-9f3ca8ea1892" />
+<img width="717" height="640" alt="image" src="https://github.com/user-attachments/assets/fade8361-09f9-4446-aa27-44ec8ecab0c4" />
+<img width="872" height="622" alt="image" src="https://github.com/user-attachments/assets/99dca04d-66b4-4c7b-9de9-88791f741f5c" />
+<img width="730" height="647" alt="image" src="https://github.com/user-attachments/assets/c6b0d1a5-85b2-4a64-adb8-d9e2bab68ed8" />
+<img width="773" height="513" alt="image" src="https://github.com/user-attachments/assets/31464f11-93d1-425b-a23f-946c47bf2c01" />
+<img width="725" height="517" alt="image" src="https://github.com/user-attachments/assets/0f2a68b5-a557-445c-8dd9-e34ea3163d00" />
+<img width="908" height="585" alt="image" src="https://github.com/user-attachments/assets/1d8826b7-e022-48d7-93f1-3cc62f332ce3" />
 
-<img width="932" height="463" alt="image" src="https://github.com/user-attachments/assets/094ad7a1-275a-4427-9562-51d2ab0e5fd1" />
 
 
 
